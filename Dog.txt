@@ -1,0 +1,7 @@
+1 adolf bokser 7 sort
+2 brian bokser 3 hvid
+3 citrus bokser 6 gul
+4 daniel bokser 5 orange
+5 bla bla 2 bla
+1 erik bokser 6 sort
+1 jesper er 21 år
